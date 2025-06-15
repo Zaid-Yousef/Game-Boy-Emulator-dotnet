@@ -1,4 +1,4 @@
-# 🎮 Game Boy (DMG) Emulator
+# 🎮 Game Boy (DMG) Emulator - C#
 
 A high-performance Game Boy (DMG) emulator written in C# with WinForms, featuring accurate emulation, 60 FPS performance, and quality-of-life enhancements.
 
