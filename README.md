@@ -155,6 +155,8 @@ This means you can:
 - ❌ Hold liable
 - ❌ Use trademark
 
+Jut give creddit if you use it anywhere please :)
+
 ## 🔗 Links
 
 - [Game Boy Technical Documentation](https://gbdev.io/pandocs/)
