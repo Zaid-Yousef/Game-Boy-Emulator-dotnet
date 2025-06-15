@@ -38,7 +38,7 @@ A high-performance Game Boy (DMG) emulator written in C# with WinForms, featurin
 ### Quick Start
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gameboy-emulator.git
+   git clone https://github.com/Zaid-Yousef/Game-Boy-Emulator-dotnet.git
    cd gameboy-emulator
    ```
 
@@ -135,16 +135,6 @@ Contributions are welcome! Here's how you can help:
 - Performance optimizations
 - UI/UX enhancements
 
-## 📋 Roadmap
-
-- [ ] Save States & Loading
-- [ ] Game Boy Color (CGB) support
-- [ ] Additional cartridge types
-- [ ] Audio system refinements
-- [ ] Rewind functionality
-- [ ] Screenshot capture
-- [ ] Customizable key mapping
-- [ ] Linux/macOS support
 
 ## 🙏 Acknowledgments
 
