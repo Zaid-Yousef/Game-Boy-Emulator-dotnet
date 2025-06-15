@@ -28,16 +28,6 @@ A high-performance Game Boy (DMG) emulator written in C# with WinForms, featurin
 - **Audio Control**: Toggle experimental audio on/off (disabled by default)
 - **Modern UI**: Clean interface with status information and controls
 
-## 🎮 Supported Games
-
-This emulator supports original Game Boy (DMG) cartridges including:
-- Super Mario Land series
-- Tetris
-- The Legend of Zelda: Link's Awakening
-- Pokémon Red/Blue/Yellow
-- Metroid II
-- And many more classic Game Boy titles!
-
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
