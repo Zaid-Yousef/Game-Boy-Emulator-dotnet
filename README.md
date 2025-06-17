@@ -6,7 +6,7 @@ A high-performance Game Boy (DMG) emulator written in C# with WinForms, featurin
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Performance](https://img.shields.io/badge/Performance-60%20FPS-brightgreen)
 
-**Developer's Note**: This entire project was built in just **one week!** It was a fun and incredibly challenging personal goal to dive deep into the Game Boy's architecture and see how quickly a functional and accurate emulator could be built from scratch in .NET.
+**Developer's Note**: It was a fun and incredibly challenging personal goal to dive deep into the Game Boy's architecture and see how quickly a functional and accurate emulator could be built from scratch in .NET.
 
 
 ## ✨ Features
